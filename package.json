@@ -13,7 +13,9 @@
     "@tauri-apps/api": "^1.4.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-spreadsheet": "^0.8.6",
+    "scheduler": "^0.23.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.4.0",
